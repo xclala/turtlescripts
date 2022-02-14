@@ -2,7 +2,7 @@ try:
     import turtle
 
     turtle.setup(800, 600)
-    # 速度
+    turtle.title("冰墩墩")
     turtle.speed(0)
     # 左手
     turtle.penup()
